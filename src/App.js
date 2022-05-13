@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Login from './Componenets/Login/Login';
 
 function App() {
   return (
     <div className="App">
-      FinHalo
+      <h1>FinHalo</h1>
+      {/* <Login/> */}
     </div>
   );
 }
